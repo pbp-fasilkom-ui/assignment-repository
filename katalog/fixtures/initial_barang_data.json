@@ -1,0 +1,62 @@
+[
+    {
+        "model": "katalog.katalogbarang",
+        "pk": 1,
+        "fields": {
+            "nama_barang": "iPhone 12 Pro Max",
+            "harga_barang": 17999999,
+            "deskripsi": "Ori iBox",
+            "stok_barang": 3,
+            "rating": 5,
+            "url_barang": "https://www.tokopedia.com/ptpratamasemesta/iphone-12-pro-max-garansi-resmi-ibox-silver-256-gb"
+        }
+    },
+    {
+        "model": "katalog.katalogbarang",
+        "pk": 2,
+        "fields": {
+            "nama_barang": "MG Nu Gundam Ver.Ka",
+            "harga_barang": 1060000,
+            "deskripsi": "Bandai Original Ver.Ka Series",
+            "stok_barang": 100,
+            "rating": 4,
+            "url_barang": "https://www.tokopedia.com/hobbyjapan/mg-nu-gundam-verka"
+        }
+    },
+    {
+        "model": "katalog.katalogbarang",
+        "pk": 3,
+        "fields": {
+            "nama_barang": "Samsung Galaxy S22",
+            "harga_barang": 12249000,
+            "deskripsi": "Spesifikasi: Snapdragon 8",
+            "stok_barang": 1,
+            "rating": 5,
+            "url_barang": "https://www.tokopedia.com/mhi-samsung/samsung-galaxy-s22-8-256gb-black"
+        }
+    },
+    {
+        "model": "katalog.katalogbarang",
+        "pk": 4,
+        "fields": {
+            "nama_barang": "Nike Air Jordan Fasilkom",
+            "harga_barang": 3799000,
+            "deskripsi": "Nike Original Made In China",
+            "stok_barang": 20,
+            "rating": 5,
+            "url_barang": "https://www.tokopedia.com/807garage/air-jordan-1-mid-multicolour"
+        }
+    },
+    {
+        "model": "katalog.katalogbarang",
+        "pk": 5,
+        "fields": {
+            "nama_barang": "Airpods Pro 3 Garansi Resmi iBox",
+            "harga_barang": 2999000,
+            "deskripsi": "Authorized Reseller",
+            "stok_barang": 3,
+            "rating": 4,
+            "url_barang": "https://www.tokopedia.com/tokobaruofficial/apple-airpods-3-mme73id-a-garansi-resmi-ibox"
+        }
+    }
+]

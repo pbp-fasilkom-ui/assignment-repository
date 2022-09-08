@@ -1,9 +1,9 @@
 from django.db import models
 
-class KatalogBarang(models.Model):
-    nama_barang = models.CharField(max_length=255)
-    harga_barang = models.BigIntegerField()
-    stok_barang = models.IntegerField()
-    deskripsi = models.TextField()
+class CatalogItem(models.Model):
+    item_name = models.CharField(max_length=255)
+    item_price = models.BigIntegerField()
+    item_stock = models.IntegerField()
+    description = models.TextField()
     rating = models.IntegerField()
-    url_barang = models.URLField()
+    item_url = models.URLField()
